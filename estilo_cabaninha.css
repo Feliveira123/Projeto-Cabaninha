@@ -1,0 +1,109 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  form {
+    max-width: 500px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(133, 175, 214);
+  }
+  
+  input {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 60px;
+    border: none;
+    height: 100%;
+    width: 90%;
+    display: block;
+  }
+  .input-element {
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  label {
+    font-size: 18px
+  }
+  h1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: rgb(133, 175, 214);
+    display: inline-block;
+    border-radius: 40px;
+  }
+  p {
+    margin-top: 0px;
+    color: white;
+    font-weight: bolder;
+    display: inline-block;
+    border-radius: 40px;
+    width: 100%;
+  }
+  #description {
+    color: rgb(133, 175, 214);
+  }
+  button {
+    font-size:20px;
+    margin-bottom: 10px;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  button:hover{
+    background-color: rgb(166, 180, 194);
+    color: black;
+  }
+  footer {
+    margin: 10px;
+  }
+
+  .radio-element {
+    display: inline;
+    width: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #dropdown {
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+  }
+
+  #link {
+    margin-top: 10px;
+    display: flex;
+    margin-left: 10px;
+    color: rgb(133, 175, 214);
+  }
+  #dropdown2 {
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+  }
+  .link2 {
+    margin-top: 10px;
+    display: flex;
+    margin-left: 10px;
+    color: rgb(133, 175, 214);
+  }
+  

@@ -106,4 +106,8 @@ body {
     margin-left: 10px;
     color: rgb(133, 175, 214);
   }
+  #cadastro-mais-um {
+    text-align: center;
+    width: 90%;
+  }
   
